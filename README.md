@@ -19,7 +19,7 @@ I am a certified Full-Stack Web Developer and current Computer Science student a
 ![Redux](https://img.shields.io/badge/-Redux-brown?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-brown?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-brown?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brown?style=flat-square&logo=mongodb)
+![Sequelize](https://img.shields.io/badge/-Sequelize-brown?style=flat-square&logo=sequelize)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brown?style=flat-square&logo=Postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-brown?style=flat-square&logo=Firebase)
 ![Socket.io](https://img.shields.io/badge/-Socket-brown?style=flat-square&logo=socket.io)
