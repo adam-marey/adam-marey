@@ -34,3 +34,4 @@ I am a certified Full-Stack Web Developer and current Computer Science student a
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
