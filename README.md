@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sulaiman211/sulaiman211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sulaiman-marey/">
@@ -15,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/sulaiman-marey/)
 - 😄 Pronouns: Sul
 - ⚡ Fun fact: My first line of code was not "Hello World!"
--->
