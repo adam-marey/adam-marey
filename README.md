@@ -54,5 +54,5 @@ I am a certified Full-Stack Web Developer and current Computer Science student a
 ![React Native](https://img.shields.io/badge/-React_Native-brown?style=flat-square&logo=react_native)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sulaiman211&show_icons=true&theme=gotham" alt="sulaiman211" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
   <br/>
