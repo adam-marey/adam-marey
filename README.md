@@ -55,5 +55,5 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sulaiman211&show_icons=true&theme=gotham" alt="sulaiman211" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
-<img height="273em" src="https://leetcard.jacoblin.cool/Adam2321?theme=dark&font=Aladin&ext=contest" />
+<img height="273em" src="[https://leetcard.jacoblin.cool/Adam2321?theme=dark&font=Aladin](https://leetcard.jacoblin.cool/adamPro?theme=nord&font=ABeeZee)&ext=contest" />
   <br/>
