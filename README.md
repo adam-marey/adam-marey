@@ -60,3 +60,12 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
 <img height="192px" src="https://leetcard.jacoblin.cool/adamPro?theme=nord&font=ABeeZee&ext=contest" />
   <br/>
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+🌆 Daytime    293 commits    ██████████░░░░░░░░░░░░░░░   41.09% 
+🌃 Evening    230 commits    ████████░░░░░░░░░░░░░░░░░   32.26% 
+🌙 Night      114 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.99%
+
+```
