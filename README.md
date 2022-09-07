@@ -51,7 +51,7 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 ![Java](https://img.shields.io/badge/-Java-brown?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-brown?style=flat-square&logo=python)
 ![React Native](https://img.shields.io/badge/-React_Native-brown?style=flat-square&logo=react_native)
-![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2042%20mins-blue)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sulaiman211&show_icons=true&theme=gotham" alt="sulaiman211" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
 <img height="192px" src="https://leetcard.jacoblin.cool/adamPro?theme=nord&font=ABeeZee&ext=contest" />
