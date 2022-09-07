@@ -28,6 +28,8 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 
 ### 🛠️ Languages and Tools:
 
+  [![activity graph](https://activity-graph.herokuapp.com/graph?username=sulaiman211&custom_title=Sulaiman's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-brown?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-brown?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-brown?style=flat-square&logo=Redux)
@@ -54,18 +56,9 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 ![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2042%20mins-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293%20Thousand%20lines%20of%20code-blue)
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=sulaiman211&custom_title=Sulaiman's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sulaiman211&show_icons=true&theme=gotham" alt="sulaiman211" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
 <img height="192px" src="https://leetcard.jacoblin.cool/adamPro?theme=nord&font=ABeeZee&ext=contest" />
   <br/>
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
-🌆 Daytime    293 commits    ██████████░░░░░░░░░░░░░░░   41.09% 
-🌃 Evening    230 commits    ████████░░░░░░░░░░░░░░░░░   32.26% 
-🌙 Night      114 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.99%
-
-```
