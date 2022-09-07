@@ -28,7 +28,6 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 
 ### 🛠️ Languages and Tools:
 
- <img src="./asset/react-dark.svg" height=250 alt="graph"/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-brown?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-brown?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-brown?style=flat-square&logo=Redux)
