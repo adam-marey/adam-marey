@@ -59,4 +59,3 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
 <img height="192px" src="https://leetcard.jacoblin.cool/adamPro?theme=nord&font=ABeeZee&ext=contest" />
   <br/>
-<img src="./asset/react-dark.svg" height=250 alt="graph"/>
