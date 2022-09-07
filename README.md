@@ -28,8 +28,7 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 
 ### 🛠️ Languages and Tools:
 
-  [![activity graph](https://activity-graph.herokuapp.com/graph?username=sulaiman211&custom_title=Sulaiman's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-  
+ <img src="./asset/react-dark.svg" height=250 alt="graph"/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-brown?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-brown?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-brown?style=flat-square&logo=Redux)
@@ -61,4 +60,4 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
 <img height="192px" src="https://leetcard.jacoblin.cool/adamPro?theme=nord&font=ABeeZee&ext=contest" />
   <br/>
-
+<img src="./asset/react-dark.svg" height=250 alt="graph"/>
