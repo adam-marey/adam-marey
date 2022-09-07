@@ -54,7 +54,7 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 ![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2042%20mins-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293%20Thousand%20lines%20of%20code-blue)
 
-
+![CodeWars](https://www.codewars.com/users/Sulaiman212/badges/large)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sulaiman211&show_icons=true&theme=gotham" alt="sulaiman211" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
 <img height="192px" src="https://leetcard.jacoblin.cool/adamPro?theme=nord&font=ABeeZee&ext=contest" />
