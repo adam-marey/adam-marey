@@ -56,4 +56,4 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
 <img height="192px" src="https://leetcard.jacoblin.cool/adamPro?theme=nord&font=ABeeZee&ext=contest" />
   <br/>
-![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2042%20mins-blue)
+![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
