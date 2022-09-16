@@ -65,4 +65,3 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 
 --------------
 ![CodeWars](https://www.codewars.com/users/Sulaiman212/badges/large)
-
