@@ -55,6 +55,14 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293%20Thousand%20lines%20of%20code-blue)
 
 ------------
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sulaiman211&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaiman211&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sulaiman211&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
+
+--------------
 
 ![CodeWars](https://www.codewars.com/users/Sulaiman212/badges/large)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sulaiman211&show_icons=true&theme=gotham" alt="sulaiman211" />
