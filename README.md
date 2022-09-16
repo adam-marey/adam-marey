@@ -61,11 +61,8 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sulaiman211&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-![CodeWars](https://www.codewars.com/users/Sulaiman212/badges/large)
 </p>
 
 --------------
-
 ![CodeWars](https://www.codewars.com/users/Sulaiman212/badges/large)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sulaiman211&show_icons=true&theme=gotham" alt="sulaiman211" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman211&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sulaiman211" height="192px"/>
+
