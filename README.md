@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/sulaiman-marey/">
-  <img align="left" color="blue" alt="Sul's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" background-color="blue" alt="Sul's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="mailto:marey119988@gmail.com">
