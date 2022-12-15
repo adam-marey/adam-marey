@@ -22,7 +22,7 @@ I am a Full-Stack Web Developer and current Computer Science student at the Univ
 - 🌱 I’m currently learning Swift / data structures and algorithms & TDD
 - 👯 I’m looking to collaborate on full-stack applications or open source projects
 - 💬 Ask me about PERN stacks, algorithms, JavaScript
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sulaiman_Marey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/sulaiman-marey/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adam_Marey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/sulaiman-marey/)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 
