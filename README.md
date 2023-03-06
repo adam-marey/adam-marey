@@ -14,7 +14,14 @@
 <br />
 
 <br/>
-I am a Full-Stack Web Developer and current Computer Science student at the Grand Canyon University. If I were to describe myself in one word, it would be resourceful. Where there is a will there is a way and that is what I always keep in mind when coding. I always try to think outside the box and find creative ways to solve problems. If you asked me what keeps me motivated to continuously learn, I would say challenge all the way. I do the thing that scares me the most, proudly and patiently. What I love about coding is that it keeps me on my toes. It is a combination of frustration, happiness, uncharted territory, an amalgam of information and so much more. I would not have it any other way.
+I am a Full-Stack Web Developer and Computer Science student at Grand Canyon University, with a passion for innovative problem-solving. As a resourceful individual, I firmly believe in the phrase, "where there's a will, there's a way," which drives me to create efficient and practical solutions.
+
+My approach to coding involves thinking outside the box and exploring various creative avenues to overcome obstacles. My motivation to learn continuously stems from my desire to face new challenges head-on. I embrace the unknown, taking pride in tackling the most daunting tasks with patience and perseverance.
+
+What I enjoy most about coding is the thrill of the unknown. Each project presents new challenges, frustrations, and triumphs that keep me on my toes. I find joy in navigating uncharted territories and gathering information to build exceptional software applications. I wouldn't want it any other way.
+
+
+
 
 ------
 
