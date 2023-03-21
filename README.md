@@ -26,7 +26,7 @@ What I enjoy most about coding is the thrill of the unknown. Each project presen
 ------
 
 - 🔭 I’m currently working at Fullstack Academy as a Mentor for fullstack software development Immersive program
-- 🌱 I’m currently learning Swift / data structures and algorithms & TDD
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on full-stack applications or open source projects
 - 💬 Ask me about PERN stacks, algorithms, JavaScript
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adam_Marey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/sulaiman-marey/)
