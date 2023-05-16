@@ -14,11 +14,7 @@
 <br />
 
 <br/>
-I am a Full-Stack Web Developer and Computer Science student at Grand Canyon University, with a passion for innovative problem-solving. As a resourceful individual, I firmly believe in the phrase, "where there's a will, there's a way," which drives me to create efficient and practical solutions.
-
-My approach to coding involves thinking outside the box and exploring various creative avenues to overcome obstacles. My motivation to learn continuously stems from my desire to face new challenges head-on. I embrace the unknown, taking pride in tackling the most daunting tasks with patience and perseverance.
-
-What I enjoy most about coding is the thrill of the unknown. Each project presents new challenges, frustrations, and triumphs that keep me on my toes. I find joy in navigating uncharted territories and gathering information to build exceptional software applications. I wouldn't want it any other way.
+Efficiently guiding students as a software development mentor and computer science graduate from Grand Canyon University, my passion lies in teaching web development and empowering learners to achieve success. Through effective communication and problem-solving abilities, I simplify intricate concepts, ensuring accessibility and engagement for students at all levels. With a comprehensive understanding of programming languages and frameworks acquired during my academic and professional journey, I offer streamlined guidance to aspiring developers. Ultimately, my objective is to equip students with the confidence and skills needed to excel in the dynamic and evolving realm of technology.
 
 
 
