@@ -14,7 +14,7 @@
 <br />
 
 <br/>
-Efficiently guiding students as a software development mentor and computer science graduate from Grand Canyon University, my passion lies in teaching web development and empowering learners to achieve success. Through effective communication and problem-solving abilities, I simplify intricate concepts, ensuring accessibility and engagement for students at all levels. With a comprehensive understanding of programming languages and frameworks acquired during my academic and professional journey, I offer streamlined guidance to aspiring developers. Ultimately, my objective is to equip students with the confidence and skills needed to excel in the dynamic and evolving realm of technology.
+With extensive experience as a software development mentor, I am deeply passionate about teaching web development and empowering learners to achieve their best. Leveraging my strong communication and problem-solving skills, I break down complex concepts to ensure they are accessible and engaging for students of all proficiencies. Possessing a deep knowledge of programming languages and frameworks, I provide insightful guidance to budding developers. My primary goal is to instill students with the confidence and capabilities they require to thrive in the ever-changing world of technology.
 
 
 
