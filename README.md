@@ -1,4 +1,4 @@
-## Hi I'm Adam 👨🏻‍💻 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/08/oK0FE9teVKMjuUw2.jpg@300w_0e.webp"></a>
+## Hi I'm Adam 👨🏻‍💻 
 
 🌱 I’m currently learning Java Spring Boot<br>
 📚 Computer Science at Arizona State University<br>
