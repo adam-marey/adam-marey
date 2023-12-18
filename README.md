@@ -7,7 +7,7 @@
 <br>
 
 <div>
-    <h2 align=left> Connect With Me </h2>
+    <h2 align=left> Contact</h2>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-marey)
