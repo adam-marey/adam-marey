@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Advanced Java<br>
 📚 Software Engineering Student at Western Governors University<br>
-💻 former Web Development Mentor / Associate Instructor at Fullstack Academy <br>
+💻 Former Web Development Mentor / Associate Instructor at Fullstack Academy <br>
 
 <br>
 
