@@ -1,8 +1,8 @@
 ## Hi I'm Adam 👨🏻‍💻 
 
-🌱 I’m currently learning Java Spring Boot<br>
-📚 Computer Science at Arizona State University<br>
-💻 Web Dev Mentor at Fullstack Academy <br>
+🌱 I’m currently learning Advanced Java<br>
+📚 Software Engineering Student at Western Governors University<br>
+💻 former Web Development Mentor / Associate Instructor at Fullstack Academy <br>
 
 <br>
 
