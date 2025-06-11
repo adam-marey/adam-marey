@@ -1,6 +1,5 @@
 ## Hi I'm Adam 👨🏻‍💻 
 
-🌱 I’m currently learning Advanced Java<br>
 💻 AI & Software Engineer at Omni Wellness AI <br>
 
 <br>
