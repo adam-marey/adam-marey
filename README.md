@@ -1,8 +1,7 @@
 ## Hi I'm Adam 👨🏻‍💻 
 
 🌱 I’m currently learning Advanced Java<br>
-📚 Software Engineering Student at Western Governors University<br>
-💻 Former Web Development Mentor / Associate Instructor at Fullstack Academy <br>
+💻 AI & Software Engineer at Omni Wellness AI <br>
 
 <br>
 
